@@ -20,3 +20,7 @@ In audio and music, frequency modulation synthesis (or FM synthesis) is a form o
 
 <img src="http://darienbrito.com/wp-content/uploads/2014/04/cropped-logo62.jpg" width="320" height="320">
 
+About the author:
+
+Darien Brito is a composer/performer working with audiovisual elements through technology. The main concerns in his work are segmented musical forms, micro-sound, generative algorithmic structures and sound design by itself. The visuals aspects of his pieces are an extension or counterpart to this concerns.
+
